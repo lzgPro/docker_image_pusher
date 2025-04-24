@@ -11,4 +11,4 @@ bitnami/etcd:latest
 mysql
 redis
 zookeeper
-kafka
+apache/kafka
